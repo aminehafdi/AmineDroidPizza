@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AmineDroidPizza</string>
+
+    <string-array name="Pizza">
+        <item>Pizza Royale</item>
+        <item>Pizza 4 Fromages</item>
+        <item>Pizza Napolitaine</item>
+        <item>Pizza Margherita</item>
+        <item>Pizza Calzone</item>
+        <item>Pizza Cannibale</item>
+    </string-array>
+</resources>
